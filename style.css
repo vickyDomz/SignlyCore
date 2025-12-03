@@ -1,0 +1,120 @@
+
+h1 {
+    color: black;
+    font-size: 400%;
+    display: inline;
+}
+h1.blanco {
+    color: #fff;
+}
+
+img {
+    display: inline;
+    width: 50%;
+}
+
+div.cabeza {
+    background-color: brown;
+    padding: 0.5%;
+    padding-left: 0%;
+}
+
+/*.centrar {
+    display: block;
+    justify-content: center;
+    align-items: center;
+}*/
+
+.boton {
+    color: #fff;
+    font-size: larger;
+    width: 20%;
+    padding: 1%;
+    justify-self: center;
+    background-color: brown;
+}
+.boton:hover {
+    background-color: rgb(106, 13, 13);
+    cursor: pointer;
+}
+.aceptar {
+    display: block;
+    margin: 100px, 10px, 10px, 10px;
+}
+td {
+    border: solid brown 3px;
+    text-align: center;
+}
+table{
+    align-self: center;
+    border-collapse: collapse;
+    width: 50%;
+    justify-self: center;
+}
+.caca {
+    justify-self: left;
+    align-self: left;
+    text-align: left;
+}
+.mierda {
+    background-color: rgba(255, 221, 0, 0.603);
+}
+table.nav {
+    width: 10%;
+    align-self: left;
+    justify-self: left;
+    margin-left: 2%;
+}
+
+td.nev {
+    padding: 1%;
+    border: none;
+}
+div.navegador {
+    padding-left: none;
+}
+.button {
+    background-color: #fff;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+td.nev:hover {
+    background-color: rgba(165, 42, 42, 0.466);
+}
+
+hr {
+    margin: none;
+    padding: -2%;
+}
+form {
+    padding-left: 2%;
+}
+
+ul {
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+  background-color: rgba(255, 221, 0, 0.633);
+}
+
+ul li {
+  margin-right: 10%;
+}
+
+li {
+    display: inline-block;    
+    padding: 1%;
+    font-size: 20px;
+    text-align: center;
+}
+a:hover{
+    background-color: rgba(255, 221, 0, 0.633);
+}
